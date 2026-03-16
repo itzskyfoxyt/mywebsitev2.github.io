@@ -1,4 +1,4 @@
-# 👋 YourName — Personal Website & Portfolio
+# 👋 itzskyfox(on prev ac) — Personal Website & Portfolio
 
 > Personal portfolio site built with pure HTML, CSS & JS — zero frameworks, zero build steps. Hosted via **GitHub Pages**.
 
